@@ -1,0 +1,6 @@
+customhost ="emp-database.cruq67uutafa.ap-south-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "adminadmin"
+customdb = "empdb"
+custombucket = "dataemployee001"
+customregion = "Asia Pacific (Mumbai) ap-south-1"
